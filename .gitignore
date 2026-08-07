@@ -1,0 +1,9 @@
+# Ignore raw CMS CSV dataset files
+*.csv
+!*_Submission.csv
+
+# Python environment & cache
+venv/
+__pycache__/
+*.pyc
+.env
